@@ -12,7 +12,7 @@ This is the Google Drive addon for the XCloner plugin. It requires XCloner plugi
 
 == Description ==
 
-This plugin provide a Remote Storage option for Google Drive inside the XCloner Backup and Restore plugin.
+This plugin provides a Remote Storage option for Google Drive inside the XCloner Backup and Restore plugin https://wordpress.org/plugins/xcloner-backup-and-restore/.
 
 Google Drive now offers 15GB of free disk space which can be used to store backups.
 
@@ -20,9 +20,10 @@ Requires PHP 5.5 with mod_CURL installed
 
 == Installation ==
 
-
-1. Install the Plugin from the Wordpress Directory
-2. Activate the plugin
+1. Install the XCloner Backup and Restore plugin https://wordpress.org/plugins/xcloner-backup-and-restore/
+1. Install the XCloner Google Drive Plugin from the Wordpress Directory
+1. Activate the plugin
+1. Visit Site Backup->Remote Storage area and look for Google Drive area.
 
 == Frequently Asked Questions ==
 
