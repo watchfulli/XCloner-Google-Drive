@@ -31,9 +31,9 @@ Requires PHP 5.5 with mod_CURL installed
 
 An answer to that question.
 
-= What about foo bar? =
+= Where do i download XCloner Backup and Restore from? =
 
-Answer to foo bar dilemma.
+From the Wordpress Directory, https://wordpress.org/plugins/xcloner-backup-and-restore/
 
 == Screenshots ==
 
