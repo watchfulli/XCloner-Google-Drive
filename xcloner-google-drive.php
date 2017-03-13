@@ -83,6 +83,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-xcloner-google-drive.php';
  */
 function run_xcloner_google_drive() {
 
+	require_once ("vendor/autoload.php");
 	$plugin = new Xcloner_Google_Drive();
 	$plugin->run();
 
