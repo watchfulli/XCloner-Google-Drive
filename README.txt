@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is the Google Drive addon for the XCloner plugin. It requires XCloner plugin to be installed.
+This is the Google Drive remote storage addon for the XCloner Backup plugin. It requires XCloner Backup and Restore plugin to be installed.
 
 == Description ==
 
