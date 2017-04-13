@@ -43,5 +43,8 @@ From the Wordpress Directory, https://wordpress.org/plugins/xcloner-backup-and-r
 
 == Changelog ==
 
+= 1.0.1 = 
+* scheduler path fix autoload
+
 = 1.0 =
 * first release
