@@ -16,7 +16,7 @@
  * Plugin Name:       XCloner Google Drive
  * Plugin URI:        http://www.xcloner.com
  * Description:       Google Drive Remote Storage Implementation for XCloner Backup and Restore plugin. Requires PHP 5.5.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Liuta Ovidiu
  * Author URI:        http://www.xcloner.com
  * License:           GPL-2.0+

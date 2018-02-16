@@ -3,8 +3,8 @@ Contributors: xcloner
 Donate link: http://www.xcloner.com
 Tags: google drive, xcloner, google drive backup, backup
 Requires at least: 3.0.1
-Tested up to: 4.8
-Stable tag: 1.0.1
+Tested up to: 4.9
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,9 @@ From the Wordpress Directory, https://wordpress.org/plugins/xcloner-backup-and-r
 1. General Settings
 
 == Changelog ==
+
+= 1.0.2 =
+* added option to permanently delete backups
 
 = 1.0.1 = 
 * scheduler path fix autoload
