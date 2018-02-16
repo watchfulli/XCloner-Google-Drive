@@ -118,6 +118,8 @@ class Xcloner_Google_Drive {
 		 * side of the site.
 		 */
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'public/class-xcloner-google-drive-public.php';
+		
+		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-xcloner-google-drive-adapter.php';
 
 		$this->loader = new Xcloner_Google_Drive_Loader();
 
