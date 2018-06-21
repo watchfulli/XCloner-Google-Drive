@@ -4,7 +4,7 @@ Donate link: http://www.xcloner.com
 Tags: google drive, xcloner, google drive backup, backup
 Requires at least: 3.0.1
 Tested up to: 4.9
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
