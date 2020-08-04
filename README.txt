@@ -4,7 +4,7 @@ Donate link: http://www.xcloner.com
 Tags: google drive, xcloner, google drive backup, backup
 Requires at least: 3.0.1
 Tested up to: 5.4
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 Requires PHP: 7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -43,6 +43,10 @@ From the Wordpress Directory, https://wordpress.org/plugins/xcloner-backup-and-r
 1. General Settings
 
 == Changelog ==
+
+= 1.0.6 = 
+* vendor update
+* google client api deprecated calls fix 
 
 = 1.0.4 = 
 * flysystem google drive lib update and bug fix http deprecated calls
